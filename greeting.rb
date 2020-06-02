@@ -4,4 +4,4 @@ def greeting
 
 end
 
-geeting
+greeting
